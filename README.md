@@ -1,14 +1,13 @@
 # Hi there, I'm Anusha! 🦞
 
-I'm a Computer Science undergraduate student, part-time turor and Data Analyst Intern. My interests lie at the intersection of technology and impact, and I'm passionate about:
+I'm a Computer Science undergraduate student, part-time turor and Data Analyst Intern.  I'm passionate about:
 
 - 📊 **Data Science & Analytics**  
 - 🧠 **AI Ethics**  
 - 🔬 **Biotech & Bioinformatics**  
 - 📖 **Writing, Education & Research**
-- 
-
-### 💻 What I'm Up To:
+  
+  ### 💻 What I'm Up To:
 - 🔄 Hosting workshops on an **AI/ML for Social Good Toolkit**.  
 - 🔧 Testing my **Skincare Chemistry Python Library**.   
 - 📚 Learning **C++** and **SQL**.  
