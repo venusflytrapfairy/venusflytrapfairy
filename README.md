@@ -1,6 +1,6 @@
 # Hi there, I'm Anusha! 🦞
 
-I'm a Computer Science undergraduate student, part-time turor and Data Analyst Intern.  I'm passionate about:
+I'm a Computer Science undergraduate student, part-time tutor and Data Analyst Intern.  I'm passionate about:
 
 - 📊 **Data Science & Analytics**  
 - 🧠 **AI Ethics**  
