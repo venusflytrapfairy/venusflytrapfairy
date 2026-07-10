@@ -34,9 +34,6 @@ I'm especially interested in:
 I'm always interested in collaborating on projects involving AI safety, interpretability, bioinformatics, and responsible AI. If you're working on trustworthy AI, scientific machine learning, or open research, I'd love to connect and learn together.
 
 ## 🌐 Socials:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anusha-asim-aa1b43211/)
-## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anusha-asim-aa1b43211/) 
 
 # 💻 Tech Stack:
