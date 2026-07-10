@@ -1,20 +1,41 @@
 # Hi there, I'm Anusha! 🦞
 
-I'm a Computer Science undergraduate student, part-time tutor and Data Analyst Intern.  I'm passionate about:
+I'm a Computer Science graduate, AI safety enthusiast, educator, and aspiring researcher working on **trustworthy AI, mechanistic interpretability, bioinformatics, and responsible AI development**.
 
-- 📊 **Data Science & Analytics**  
-- 🧠 **AI Ethics**  
-- 🔬 **Biotech & Bioinformatics**  
-- 📖 **Writing, Education & Research**
-  
-  ### 💻 What I'm Up To:
-- 🔄 Hosting workshops on an **AI/ML for Social Good Toolkit**.  
-- 🔧 Testing my **Skincare Chemistry Python Library**.   
-- 📚 Learning **C++** and **SQL**.  
+My interests lie in developing more interpretable models and reliable evaluation methods to exploring how AI can be responsibly applied in scientific and social domains.
+
+I'm particularly passionate about:
+
+- 🧠 **AI Safety & Mechanistic Interpretability** — exploring methods to understand model representations, improve transparency, and reduce unintended behaviors in AI systems.
+- 🔬 **AI for Biology & Bioinformatics** — applying machine learning and knowledge graphs to biomedical reasoning, including explainable AI approaches for scientific discovery.
+- 📊 **Machine Learning & Data Science** — building data-driven systems with a focus on evaluation, reliability, and real-world impact.
+- ⚖️ **AI Ethics & Responsible Innovation** — investigating how technical systems can be designed with safety, fairness, and human values in mind.
+- 📖 **Research, Writing & Education** — making complex technical concepts accessible through workshops, educational resources, and community initiatives.
+
+## 💻 What I'm Working On:
+
+- 🧬 Building **BioPath Explorer**, a Graph-RAG system for explainable biomedical pathway reasoning using knowledge graphs, LLMs, and Neo4j. The project explores how structured biological knowledge can improve grounding and reduce hallucinations in AI-generated reasoning.
+- 🔍 Exploring **mechanistic interpretability and AI safety research**, including work around understanding learned representations in language and protein models, sparse autoencoders, and approaches for making neural networks more interpretable.
+- 🤖 Developing and delivering workshops on an **AI/ML for Social Good Toolkit**, introducing young learners to machine learning concepts, responsible AI, and real-world applications.
+- 🧪 Experimenting with applied ML projects.
+- 💻 Expanding my technical foundation in **C++, SQL, machine learning systems, and AI research tooling**.
+
+## 🌱 Research Interests
+
+I'm especially interested in:
+- Mechanistic interpretability and understanding internal model representations
+- AI evaluation and robustness
+- Explainable AI for scientific applications
+- Knowledge graphs and retrieval-augmented generation
+- Safe deployment of AI systems in high-impact domains
 
 ### 💡 Let's Connect!
-I'm always eager to collaborate on exciting projects, especially in the fields of bioinformatics and AI ethics. Whether you're a fellow researcher, developer, or storyteller, let's build something meaningful together.
 
+I'm always interested in collaborating on projects involving AI safety, interpretability, bioinformatics, and responsible AI. If you're working on trustworthy AI, scientific machine learning, or open research, I'd love to connect and learn together.
+
+## 🌐 Socials:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anusha-asim-aa1b43211/)
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anusha-asim-aa1b43211/) 
 
