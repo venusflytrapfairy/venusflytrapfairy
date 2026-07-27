@@ -1,6 +1,6 @@
 # Hi there, I'm Anusha! 🦞
 
-I'm a Computer Science graduate, AI safety enthusiast, educator, and aspiring researcher working on **trustworthy AI, mechanistic interpretability, bioinformatics, and responsible AI development**.
+I'm a Computer Science graduate, AI safety enthusiast, educator, and independent researcher working on **trustworthy AI, mechanistic interpretability, bioinformatics, and responsible AI development**.
 
 My interests lie in developing more interpretable models and reliable evaluation methods to exploring how AI can be responsibly applied in scientific and social domains.
 
